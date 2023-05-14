@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    /*body {
+        background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fthisisarray.com%2Fbest-online-advertising-platforms%2F&psig=AOvVaw08v9ss46NbfdZpizLQM6ip&ust=1684162233326000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMCf97CH9f4CFQAAAAAdAAAAABAI ');
+        background-size: cover;
+        background-position: center;
+    }*/
+
+    .card {
+        
+        background-color:black;
+        color: #fff;
+        margin: 20px;
+    }
+    .coll{
+        background-color:aqua;
+        opacity:50%;
+    }
+</style>
+<br />
+<br />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/><br/>
+<br/>
+<br/>
+<br/>
+<div class="Coll">
+<div class="container-fluid d-flex justify-content-center align-items-center">
+    <div class="card" style="width: 20rem;">
+        @*<img src="path/to/admin-image.jpg" class="card-img-top" alt="Admin">*@
+        <div class="card-body">
+            <h5 class="card-title">Admin Panel</h5>
+            <p class="card-text">Manage your website's content and settings.</p>
+            <a href="@Url.Action("Login", "Admin")" class="btn btn-primary">Go to Admin Panel</a>
+        </div>
+    </div>
+    <div class="card" style="width: 20rem;">
+        @*<img src="path/to/user-image.jpg" class="card-img-top" alt="User">*@
+        <div class="card-body">
+            <h5 class="card-title">User Dashboard</h5>
+            <p class="card-text">View and manage your account information.</p>
+            <a href="@Url.Action("Index", "User")" class="btn btn-primary">Go to User Dashboard</a>
+        </div>
+    </div>
+</div>
+</div>
+

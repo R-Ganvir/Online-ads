@@ -1,0 +1,83 @@
+﻿@model IEnumerable<OnlineAds.Models.TblUser>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UDateofbirth)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UGender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UCity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UState)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UImage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UContact)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UDateofbirth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UGender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UCity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UState)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UImage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UContact)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.UId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.UId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.UId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

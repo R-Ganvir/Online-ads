@@ -1,0 +1,74 @@
+﻿@model OnlineAds.Models.TblUser
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>TblUser</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="UId" />
+            <div class="form-group">
+                <label asp-for="UPassword" class="control-label"></label>
+                <input asp-for="UPassword" class="form-control" />
+                <span asp-validation-for="UPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UName" class="control-label"></label>
+                <input asp-for="UName" class="form-control" />
+                <span asp-validation-for="UName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UDateofbirth" class="control-label"></label>
+                <input asp-for="UDateofbirth" class="form-control" />
+                <span asp-validation-for="UDateofbirth" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UGender" class="control-label"></label>
+                <input asp-for="UGender" class="form-control" />
+                <span asp-validation-for="UGender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UCity" class="control-label"></label>
+                <input asp-for="UCity" class="form-control" />
+                <span asp-validation-for="UCity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UState" class="control-label"></label>
+                <input asp-for="UState" class="form-control" />
+                <span asp-validation-for="UState" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UEmail" class="control-label"></label>
+                <input asp-for="UEmail" class="form-control" />
+                <span asp-validation-for="UEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UImage" class="control-label"></label>
+                <input asp-for="UImage" class="form-control" />
+                <span asp-validation-for="UImage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UContact" class="control-label"></label>
+                <input asp-for="UContact" class="form-control" />
+                <span asp-validation-for="UContact" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

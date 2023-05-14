@@ -1,0 +1,65 @@
+﻿@model IEnumerable<OnlineAds.Models.TblProduct>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProImage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProDes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProFkCatNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProFkUserNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProImage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProDes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProFkCatNavigation.CatId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProFkUserNavigation.UId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ProId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ProId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ProId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,301 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\OnlineAds.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlineAds.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\Uploads\\21293d13-6e03-4987-8ad9-43cacd674e4f.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\21293d13-6e03-4987-8ad9-43cacd674e4f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\Uploads\\22f1f1fc-662d-44bf-9ba4-a21b82bc5465.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\22f1f1fc-662d-44bf-9ba4-a21b82bc5465.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\Uploads\\98c518cc-6497-4be5-a824-2503e4b55bbf.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\98c518cc-6497-4be5-a824-2503e4b55bbf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\Uploads\\bec93923-cf11-4c6f-816c-aadfcdaed70f.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\bec93923-cf11-4c6f-816c-aadfcdaed70f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\Uploads\\ca499776-06b6-4a4d-b292-bd48f6ec4b37.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ca499776-06b6-4a4d-b292-bd48f6ec4b37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\Uploads\\cb5cab01-9b8a-41de-bfc2-c421b4001d58.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\cb5cab01-9b8a-41de-bfc2-c421b4001d58.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\Uploads\\d3996a36-33ea-4bae-b3eb-a84c7a19b386.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\d3996a36-33ea-4bae-b3eb-a84c7a19b386.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\Uploads\\e6a59967-52e0-4bc5-ae9a-1a7c26dcaf4f.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\e6a59967-52e0-4bc5-ae9a-1a7c26dcaf4f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\images\\create images.png",
+      "PackagePath": "staticwebassets\\images\\create images.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\YT\\Capstone\\OnlineAds\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.OnlineAds.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.OnlineAds.props",
+      "PackagePath": "build\\OnlineAds.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineAds.props",
+      "PackagePath": "buildMultiTargeting\\OnlineAds.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.OnlineAds.props",
+      "PackagePath": "buildTransitive\\OnlineAds.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
